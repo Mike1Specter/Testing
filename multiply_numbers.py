@@ -1,0 +1,1 @@
+def multiply(a, b):    return a * bx = 3y = 5print(multiply(x, y))
